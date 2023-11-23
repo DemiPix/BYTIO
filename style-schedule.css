@@ -1,0 +1,524 @@
+Pix
+Pix#7952
+schedule
+Shyel — 06/04/2023 3:37 PM
+i mean he can prolly make it after. i doubt too tho this kids addicted to val
+i kinda wanted him to go tho cuz i asked dilan if he can go and its kinda awkward for him to just not show
+Pix — 06/04/2023 3:40 PM
+nah i doubt he'll care
+Shyel — 06/04/2023 3:41 PM
+Ye prolly not
+Also I’d offer u ride if u wanted to go but im also getting a ride from someone
+Pix — 06/04/2023 3:42 PM
+yea prolly not gonna go then
+Shyel — 06/04/2023 3:42 PM
+I mean we can ask Jack if he can take u too. Ur kinda on the way ish
+Pix — 06/04/2023 11:44 PM
+why did big blud dilan hop in the call to add me
+Shyel — 06/04/2023 11:44 PM
+cuz he want u or sum
+Pix — 06/04/2023 11:44 PM
+k
+Shyel — 06/04/2023 11:44 PM
+nah fr
+he was like "i want tyler le"
+Pix — 06/04/2023 11:45 PM
+wtf
+Pix — 06/05/2023 12:27 AM
+can u send me the schedule
+and the rest of the about us
+Shyel — 06/05/2023 12:28 AM
+Alr
+Rest of about us I may have to give Thursday
+Pix — 06/05/2023 12:28 AM
+thursday?
+wtf
+Shyel — 06/05/2023 12:28 AM
+Actually I can redo it rq in the morning
+Shyel — 06/05/2023 12:28 AM
+It may only be at my moms
+Pix — 06/05/2023 12:28 AM
+tf is u doing from monday to wednesday
+oih
+Shyel — 06/05/2023 12:28 AM
+K
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <h1> <Strong>BYTIO<em></em></Strong> </h1>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type = "text/css" href = "style-schedule.css">
+</head>
+<body>
+    <a href = "bytio.html">
+        <img id = "img-bytio" name = "logo-img" src = "https://cdn.discordapp.com/attachments/719279209524101204/1092533659518636112/image.png" class = 'logo-img' alt = "BYTIO-img">
+      </a>  
+   
+      <div style="text-align: right;">
+          <a href="About us.html"><button>About us</button></a>
+   
+         
+          <a href="Contact us.html"><button>Contact Us</button></a>
+   
+         
+          <a href="Schedule.html"><button>Schedule</button></a>
+   
+          <a href ="TEK.html"><button>TEK Info</button></a>
+   
+      </div>
+     
+   
+    <div class= "footer">
+      <div class = "image-container">
+        <a id = "bytio-insta" href = "https://www.instagram.com/bytio_ths/" target = "_blank" rel = "noopener noreferrer"> <img src = "https://paddleonwmbg.com/wp-content/uploads/2016/04/instagram-Logo-PNG-Transparent-Background-download.png"></a>
+      </div>
+      <div class = "image-container">
+        <a id = "bytio-remind" href = "https://www.remind.com/join/bytio" target = "_blank" rel = "noopener noreferrer"> <img src = "https://www.district65.net/cms/lib/IL01906289/Centricity//Domain/790/remind2.png" ></a>
+      </div>
+    </div>
+    <div class="intro">
+        <h1>Schedule</h1>
+        <p>Throughout the school year, meetings are regularly held every other week in room 915. This occurs during lunch break. Many things happen so any changes made can be found within this calendar updated daily.</p>
+        <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+        <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=c2h5ZWxzaW5naDMyMUBnbWFpbC5jb20&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+    </div>
+   
+</body>
+</html>
+Collapse
+text.txt
+3 KB
+That’s the html for schedule
+Pix — 06/05/2023 12:35 AM
+alr thanks lil bro bro
+Shyel — 06/05/2023 12:36 AM
+* {
+    padding: 0;
+    margin: 0;
+  }
+ 
+  html, body #fullheight {
+    min-height: 100% !important;
+    height: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: whitesmoke;
+  }
+ 
+  h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 40px;
+    padding-top: 20px;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 100px;
+    margin: 0 auto;
+  }
+ 
+  #img-bytio{
+    -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    float: left;
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    width: 75px;
+  }
+ 
+  button img {
+    width: 100%;
+    height: auto;
+  }
+ 
+  button {
+    position: relative;
+    background-color: #000;
+    color: white;
+    padding: 15px 40px;;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    top: 20px;
+    right: 15px;
+  }
+ 
+  .footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: green;
+    color: white;
+    text-align: center;
+    justify-content: flex-end;
+    height:100px;
+    display:flex;
+  }
+ 
+  #bytio-insta{
+    text-align:right;
+    display: flex;
+    height:75px;
+    margin-top:10px
+  }
+ 
+  #bytio-remind{
+    text-align: right;
+    display: flex;
+    height:75px;
+    margin-top:10px;
+    margin-right:15px;
+  }
+ 
+  .intro h1{
+    margin-top:90px;
+    left:50px;
+    position:absolute;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .intro p{
+    margin-left:50px;
+    margin-top:115px;
+  }
+  iframe{
+    margin-left:50px;
+  }
+ 
+  .footer .image-container {
+    display: inline-block;
+ 
+  }
+ 
+  .wrapper{
+... (3 lines left)
+Collapse
+text.txt
+2 KB
+also that idol shit wack. weeknd does some weird shit to this girl
+Pix — 06/05/2023 12:46 AM
+like illegal shit
+or
+what
+Shyel — 06/05/2023 12:47 AM
+i mean not rlly? he pulls out a knife while choking someone tho
+Pix — 06/05/2023 12:47 AM
+wtf
+Shyel — 06/05/2023 12:47 AM
+but she liked it
+somehow
+Pix — 06/05/2023 12:50 AM
+bro that is so weird
+Shyel — 06/05/2023 12:51 AM
+i know. i didnt know abel was like that
+Pix — 06/05/2023 12:51 AM
+bros a freak
+Shyel — 06/05/2023 12:51 AM
+fr tho
+Pix — 06/05/2023 1:06 AM
+is the tek thing the last thing to do
+oh wait nvm i need to finissh up the home page
+Shyel — 06/05/2023 1:14 AM
+Ye. We can do tek together cuz we gotta figure out how it’ll work
+Also what’d u need help with again
+Oh ye the scrolly thingy
+did u get it
+Pix — 06/05/2023 1:15 AM
+no 💀
+ts hard
+Shyel — 06/05/2023 1:16 AM
+Oh Aigh. Imma go eat but u can try to help after if u still up
+I
+Idk why it corrects i to u
+﻿
+Shyel — 06/05/2023 12:32 AM
+That’s the html for schedule
+Pix — 06/05/2023 12:27 AM
+can u send me the schedule
+Pix — 05/28/2023 9:46 PM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <h1> <Strong>BYTIO<em></em></Strong> </h1>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style-about-us.css">
+</head>
+<body>
+    <a href="bytio.html">
+        <img id="img-bytio" name="logo-img"
+          src="https://cdn.discordapp.com/attachments/719279209524101204/1092533659518636112/image.png" class='logo-img'
+          alt="BYTIO-img">
+      </a>
+
+      <div style="text-align: right;">
+        <a href="About us.html"><button>About us</button></a>
+
+
+        <a href="Contact us.html"><button>Contact Us</button></a>
+
+
+        <a href="Schedule.html"><button>Schedule</button></a>
+
+        <a href="TEK.html"><button>TEK Info</button></a>
+
+      </div>
+      <div class="hi">
+        <h1><strong>Members</strong></h1>
+        <img src="https://i.ebayimg.com/images/g/HfgAAOSwTEJaO~SO/s-l225.webp%22%3E%22%3E
+        <h2>President/Co-Founder</h2>
+Image
+Shyel — 05/24/2023 8:58 PM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style-about-us.css">
+</head>
+<body>
+    <a href="bytio.html">
+        <img id="img-bytio" name="logo-img"
+          src="https://cdn.discordapp.com/attachments/719279209524101204/1092533659518636112/image.png" class='logo-img'
+          alt="BYTIO-img">
+      </a>
+
+      <div style="text-align: right;">
+        <a href="About us.html"><button>About us</button></a>
+
+
+        <a href="Contact us.html"><button>Contact Us</button></a>
+
+
+        <a href="Schedule.html"><button>Schedule</button></a>
+
+        <a href="TEK.html"><button>TEK Info</button></a>
+
+      </div>
+      <div class="hi">
+        <h1><strong>Members</strong></h1>
+        <img src="https://i.ebayimg.com/images/g/HfgAAOSwTEJaO~SO/s-l225.webp%22%3E
+        <h2>President/Co-Founder</h2>
+        <p>Our President and Co-Founder is Shyel Singh. He is 17 years old at time of writing and began the club at 16. As a Junior in high school, he enjoys his classes and being on the track team where he does Long Jump and Triple Jump. In the tech field, he has been intrested in computers as long as he can remember, getting snap-together circuit boards in 4th grade and winning an IT support award in 5th grade to building his first PC in 7th grade and now when he and his Vice President formed this club to share their knowledge to those younger and obvlivious to the world of computers.</p>
+      </div>
+      <div class="ho">
+        <img src="https://i.ebayimg.com/images/g/HfgAAOSwTEJaO~SO/s-l225.webp%22%3E
+        <h2>Vice President/Co-Founder</h2>
+        <p>a</p>
+      </div>
+
+</body>
+</html>
+Image
+Shyel — 04/28/2023 9:37 PM
+So I just got home and I gotta go pick up big I from riverside so I can’t work on it today cuz I’m tryna get a decent sleep schedule going for AP tests but I’ll wake up maybe 9ish tomorrow and I’ll start looking into it
+Pix — 04/21/2023 11:40 PM
+u should prolly fix ur schedule b4 finals and ap tests
+Pix — 04/09/2023 1:14 PM
+<strong>August-Dec 2022</strong>
+    <br>
+    <strong>The beginning of a club</strong>
+    <br>
+    Throughout the months of August to December of 2022, the club was formed and met every other week to discuss one part at a time as the group went through the computer. Questions were asked, brownies were given, and fun was had as kids from Tesoro began to extend their knowledge about the computer and its hardware.
+</div>
+<div style="border-left:thin solid black; height: 40px; position:absolute; left:480px; top: 255px"></div>
+<div class="rectangle3">
+    <strong>Dec-Jan 2022-23</strong>
+    <br>
+    <strong>Reconvention</strong>
+    <br>
+    During December and January, Shyel and Tyler discussed how they could make the club and organization better. The people were learning, but not in the way that was intended when the idea first formed. They decided the best way to go about it was to use a model PC during each meeting to <i>show</i> everyone how each thing fit together and had its place.
+</div>
+<div style="border-left:thin solid black; height: 40px; position:absolute; left:760px; top: 255px"></div>
+<div class="rectangle4">
+    <strong>Present Day</strong>
+    <br>
+    <strong>Going well</strong>
+    <br>
+    During the present day, when there is not a scheduling conflict with track meets or field trips, meetings still happen every two weeks. Those who come always leave with more knowledge than they arrived with and the addition of the model PC allows everyone to get hands-on experience, readying them for the real world and their own computer whether they build a new one or repair their own. 
+</div>
+<div style="border-left:thin solid black; height: 40px; position:absolute; left:1040px; top: 255px"></div>
+ 
+</body>
+</html>
+Pix — 04/09/2023 1:14 PM
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <h1> <Strong>BYTIO<em></em></Strong> </h1>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type = "text/css" href = "style.css">
+</head>
+<body>
+  <a href = "bytio.html">
+    <img id = "img-bytio" name = "logo-img" src = "https://cdn.discordapp.com/attachments/719279209524101204/1092533659518636112/image.png" class = 'logo-img' alt = "BYTIO-img">
+  </a>
+
+  <div style="text-align: right;">
+      <a href="About us.html"><button>About us</button></a>
+
+
+      <a href="Contact us.html"><button>Contact Us</button></a>
+
+
+      <a href="Schedule.html"><button>Schedule</button></a>
+
+      <a href ="TEK.html"><button>TEK Info</button></a>
+
+  </div>
+
+  <p class = "paragraph-informational">
+    Social non-profit organization at Tesoro High School to help educate, inform,
+    and provide assistance to children in tech
+  </p>
+
+  <div class="rectangle">
+    <strong>July 2022</strong>
+    <br>
+    <strong>An idea was formed</strong>
+    <br>
+    During July of 2022, Shyel Singh and Tyler Le decided they wanted to find a way to bring technology to everyone, starting at their own school, Tesoro High School. This would be done through a club they would form called BYTIO in which people could sign up and learn about the different parts of a computer, how one would know which one to buy, how it works with the other parts, and how to put it in their very own computer.
+</div>
+<hr style="width:90%; margin-top:275px">
+<div class="triangle-left"></div>
+<div class="triangle-right"></div>
+<div style="border-left:thin solid black; height: 40px; position:absolute; left:200px; top: 255px"></div>
+<div class="rectangle2">
+Pix — 04/07/2023 1:00 PM
+bro has a messed up sleep schedule across the world
+Shyel — 04/03/2023 2:33 AM
+so far i have About Us, Schedule, TEK, Contact
+Shyel — 04/01/2023 9:51 PM
+I’m srs tho there’ll def be some downtime especially with my sleep schedule so might as well
+Shyel — 03/31/2023 11:16 PM
+dog i have the sleep schedule of a turtle
+Shyel — 01/10/2023 7:25 PM
+and im still tired so i fixed my schedule i think
+Shyel — 10/06/2022 10:19 PM
+Ye bro I had a W sleep schedule for 3 days and then I fuck it up. Also it was aight. We didn’t rlly stick to just back and whatever he said this kid wanted to bench
+Shyel — 09/22/2022 10:47 AM
+Idk full classes or smt. She said it wouldn’t work with her schedule
+Shyel — 06/28/2022 4:39 PM
+Yeah ik. Idk why they couldn’t clear their schedules it’s literally minions
+Shyel — 03/11/2021 7:11 PM
+my counselor took pe out of my schedule when i talked to her last week so i dont have to do them anymore.
+did u?
+Shyel — 01/09/2021 10:20 PM
+Idek. So from 9-10 there was a twitch stream and that had information abt the season. I was like half asleep tho bc I slept at 2am. And then we were talking abt the manual when I left the meet. The schedule had like 7 hours of breakout rooms tho I’m pretty sure so ig that’s what they were doing
+Shyel — 12/27/2020 7:53 PM
+Oh okay cool. Oh yeah I forgot abt the schedule u sent I thought they skipped the tenth too
+Shyel — 12/09/2020 9:10 PM
+Nvm my brother said we do have school Monday, it’s just not part of the final schedule since we’re not doing finals on that day
+* {
+    padding: 0;
+    margin: 0;
+  }
+ 
+  html, body #fullheight {
+    min-height: 100% !important;
+    height: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: whitesmoke;
+  }
+ 
+  h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 40px;
+    padding-top: 20px;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 100px;
+    margin: 0 auto;
+  }
+ 
+  #img-bytio{
+    -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    float: left;
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    width: 75px;
+  }
+ 
+  button img {
+    width: 100%;
+    height: auto;
+  }
+ 
+  button {
+    position: relative;
+    background-color: #000;
+    color: white;
+    padding: 15px 40px;;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    top: 20px;
+    right: 15px;
+  }
+ 
+  .footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: green;
+    color: white;
+    text-align: center;
+    justify-content: flex-end;
+    height:100px;
+    display:flex;
+  }
+ 
+  #bytio-insta{
+    text-align:right;
+    display: flex;
+    height:75px;
+    margin-top:10px
+  }
+ 
+  #bytio-remind{
+    text-align: right;
+    display: flex;
+    height:75px;
+    margin-top:10px;
+    margin-right:15px;
+  }
+ 
+  .intro h1{
+    margin-top:90px;
+    left:50px;
+    position:absolute;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .intro p{
+    margin-left:50px;
+    margin-top:115px;
+  }
+  iframe{
+    margin-left:50px;
+  }
+ 
+  .footer .image-container {
+    display: inline-block;
+ 
+  }
+ 
+  .wrapper{
+    width: 100%;
+  }
+text.txt
+2 KB

@@ -1,0 +1,113 @@
+#img-bytio{
+    -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    float: left;
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    width: 75px;
+  }
+
+  button img {
+    width: 100%;
+    height: auto;
+  }
+
+  button {
+    position: relative;
+    background-color: #000;
+    color: white;
+    padding: 15px 40px;;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    top: 20px;
+    right: 25px;
+  }
+  .hi{
+    margin-top:140px;
+    margin-left: 50px;
+    font-size:larger;
+    font-family:Arial, Helvetica, sans-serif;
+    position:relative;
+  }
+  .hi img{
+    margin-left: 75px;
+    width:15%;
+    position:absolute;
+    min-width:400px;
+  }
+  .hi h2{
+    margin-top:25px;
+    margin-left:530px;
+  }
+  .hi p{
+    margin-left:530px;
+  }
+  .ho{
+    position:relative;
+    font-size:larger;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top:250px;
+    margin-left:125px;
+  }
+  .ho img{
+
+    position:absolute;
+    width:15%;
+    min-width:400px;
+
+  }
+  .ho h2{
+    margin-left:450px;
+    margin-top:25px;
+  }
+  .ho p{
+    margin-left:450px;
+  }
+
+  h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 40px;
+    padding-top: 20px;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 100px;
+    margin: 0 auto;
+}
+
+.footer .image-container {
+  display: inline-block;
+
+}
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: green;
+  color: white;
+  text-align: center;
+  justify-content: flex-end;
+  height:100px;
+  display:flex;
+}
+
+#bytio-insta{
+  text-align:right;
+  display: flex;
+  height:75px;
+  margin-top:10px
+}
+
+#bytio-remind{
+  text-align: right;
+  display: flex;
+  height:75px;
+  margin-top:10px;
+  margin-right:15px;
+}
